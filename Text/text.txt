@@ -1,0 +1,7 @@
+data = [
+('James', 'Michael', 'Smith' ,'1991-03-12','M',2500),
+('Tom','Jim','Toronto','2000-03-13', 3000),
+(‘Janet' , 'Jane' ,'Jackson' ,'2000-03-13', 'FM' ,4000),
+('Joan','Jane','Anderson' ,'2003-04-15','FM',5000)
+]
+

@@ -1,0 +1,3 @@
+columns = ["firstname","middlename","lastname","date","gender","salary"]
+df = spark.createDataF rame(data=data, schema=columns)
+print (df.printSchema() )
